@@ -1,13 +1,10 @@
 package com.SpringBootMVC.Homework.Department;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DepartmentApplicationTests {
+class DepartmentRepositoryApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+
 
 }
